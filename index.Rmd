@@ -10,7 +10,7 @@ link-citations: yes
 site: bookdown::bookdown_site
 description: ""
 url: 'https\://mesfind.github.io/appliedstats/'
-github-repo: daviddalpiaz/appliedstats
+github-repo: mesfind/appliedstats
 favicon: "favicon.gif"
 ---
 
