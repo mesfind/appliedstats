@@ -1,6 +1,6 @@
 --- 
 title: "Applied Statistics with `R`"
-author: "[David Dalpiaz](https://daviddalpiaz.com/)"
+author: "[Mesfin Diro](https://mesfind.gihub.io)"
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
 documentclass: book
@@ -9,8 +9,8 @@ biblio-style: apalike
 link-citations: yes
 site: bookdown::bookdown_site
 description: ""
-url: 'https\://daviddalpiaz.github.io/appliedstats/'
-github-repo: daviddalpiaz/appliedstats
+url: 'https\://mesfind.github.io/appliedstats/'
+github-repo: mesfind/appliedstats
 favicon: "favicon.gif"
 ---
 
@@ -77,7 +77,7 @@ Material in this book was heavily influenced by:
     - Current graduate student at the University of Illinois at Urbana-Champaign. Provided the initial push to write this book by introducing the author to the [`bookdown`](https://bookdown.org/yihui/bookdown/) package in `R`. Also a frequent contributor via GitHub.
 
 Your name could be here! Suggest an edit! Correct a typo! If you submit a correction and would like to be listed below, please provide your name as you would like it to appear, as well as a link to a GitHub, LinkedIn, or personal website.
-
+- [David Dalpiaz](https://daviddalpiaz.com/)
 - [Daniel McQuillan](https://github.com/dmcquillan314)
 - [Mason Rubenstein](https://github.com/mruben09)
 - [Yuhang Wang](https://github.com/yuhangwang)
